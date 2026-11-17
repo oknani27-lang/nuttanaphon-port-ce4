@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Anuphan:wght@100..700&display=swap");
+
+body {
+  background-image: url("/image+gif/พื้นหลัง\ gif\ 01.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: aliceblue;
+  font-family: "Anuphan", sans-serif;
+}
+
+.h1 {
+  border: 3px solid gray;
+  border-radius: 12px;
+  width: 750px;
+  padding-left: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+  font-size: 100px;
+}
+
+.profile {
+  border: 4px solid gainsboro;
+  border-radius: 15px;
+  width: 500px;
+  padding: 10px;
+  background-color: #303829;
+  text-align: center;
+  margin: auto;
+}
+
+.buttoninProflie {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  margin: 10px;
+}
+
+.buttonIG {
+  background-color: pink;
+}
+
+.buttongithub {
+  background-color: gray;
+}
+
+.buttondiscord {
+  background-color: rgb(131, 65, 197);
+}
+
+#AboutMe {
+  display: flex;
+  border: 4px solid purple;
+  border-radius: 12px;
+  height: 600px;
+  width: 700px;
+  background-color: slategrey;
+  padding: 10px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  gap: px;
+  flex-direction: column;
+}
+
+.h1Aboutme {
+  height: 60px;
+  width: 170px;
+}
+.imgAndP {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+.imgAboutme {
+  width: 400px;
+  height: 300px;
+  margin-top: 40px;
+  margin-left: 20px;
+}
+
+.AboutMeP1 {
+  width: 250px;
+  height: 350px;
+  font-size: 22px;
+}
+
+.h2skill {
+  height: 100px;
+  width: 200px;
+}
+
+.myskill {
+  width: 650px;
+  height: 100px;
+}
+
+#rewardinfo {
+  display: flex;
+  border: 4px solid yellow;
+  border-radius: 12px;
+  width: 800px;
+  height: 300px;
+  flex-direction: column;
+  background-color: #a9b69e;
+  padding: 10px;
+  margin: auto;
+}
+
+.linkinfo {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
