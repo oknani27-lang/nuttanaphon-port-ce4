@@ -114,3 +114,19 @@ body {
   flex-direction: row;
   gap: 10px;
 }
+
+#Depa {
+  border: 4px orangered;
+  border-radius: 12px;
+  width: 420px;
+  height: 320px;
+  margin-left: 50px;
+}
+
+#Change {
+  border: 4px orangered;
+  border-radius: 12px;
+  width: 420px;
+  height: 320px;
+  margin-left: 50px;
+}
