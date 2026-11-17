@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Anuphan:wght@100..700&display=swap");
 
 body {
-  background-image: url("/image+gif/พื้นหลัง\ gif\ 01.gif");
+  background-image: url("./image+gif/พื้นหลัง\ gif\ 01.gif");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
